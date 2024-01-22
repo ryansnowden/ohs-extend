@@ -40,25 +40,37 @@ Code for each of the sections will hopefully come from other projects and contri
 Clinically-validated self-assessment tools commonly used in various domains of health:
 
 ### Mental Health Assessments
-- ~~**Patient Health Questionnaire (PHQ-9)**: Screens for depression.~~
-- ~~**Generalized Anxiety Disorder Assessment (GAD-7)**: Screens for anxiety.~~
-- **Beck Depression Inventory (BDI)**: Assesses the severity of depression.
-- **Beck Anxiety Inventory (BAI)**: Measures the severity of anxiety.
-- **Mood Disorder Questionnaire (MDQ)**: Screens for bipolar disorder.
-- **Alcohol Use Disorders Identification Test (AUDIT)**: Screens for alcohol abuse.
-- **Edinburgh Postnatal Depression Scale (EPDS)**: Screens for postpartum depression.
+
+- **~~Patient Health Questionnaire (PHQ-9)~~✅**~~: Screens for depression.~~
+- **~~Generalized Anxiety Disorder Assessment (GAD-7)~~✅**~~: Screens for anxiety.~~
+- **[Beck Depression Inventory](https://naviauxlab.ucsd.edu/wp-content/uploads/2020/09/BDI21.pdf) (BDI-II)❌©**: Assesses the severity of depression.
+- **[Beck Anxiety Inventory](https://theinvictusclinic.com/wp-content/uploads/2019/10/Beck-Anxiety-Inventory.pdf) (BAI)❌©**: Measures the severity of anxiety.
+    - https://pubmed.ncbi.nlm.nih.gov/11058490/
+    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC314375/bin/i1523-5998-004-01-0009-ta01.jpg
+    - **[Mood Disorder Questionnaire](https://www.ohsu.edu/sites/default/files/2019-06/cms-quality-bipolar_disorder_mdq_screener.pdf) (MDQ)❌©**: Screens for bipolar disorder.-[Requires written consent apparently](https://www.notion.so/Research-4355c4dd22c14981a3c55a7e6ce927d7?pvs=21)
+    - There is also a ***Mood Disorder Questionnaire***-Adolescent Version for use in adolescent population.
+- **[Alcohol Use Disorders Identification Test](https://auditscreen.org/) (AUDIT)✅**: Screens for alcohol abuse.
+- **[Edinburgh Postnatal Depression Scale](https://www.blackdoginstitute.org.au/wp-content/uploads/2020/04/edinburgh-postnatal-depression-scale.pdf) (EPDS)✅**: Screens for postpartum depression.
 
 ### Physical Health Assessments
-- **International Prostate Symptom Score (IPSS)**: Assesses urinary symptoms and possible benign prostatic hyperplasia.
-- **Asthma Control Test (ACT)**: Assesses asthma control.
-- **Migraine Disability Assessment Test (MIDAS)**: Measures the impact of migraines on daily life.
-- **The International Physical Activity Questionnaire (IPAQ)**: Measures physical activity levels.
+
+- **[International Prostate Symptom Score](https://www.healthymale.org.au/files/inline-files/Int.%20Prostate%20Symptom%20Score%20%28I-PSS0%29_Healthy%20Male%202019.pdf) (IPSS)✅**: Assesses urinary symptoms and possible benign prostatic hyperplasia.
+- **[Asthma Control Test](https://asthma.org.au/wp-content/uploads/2021/09/The-Asthma-Control-Test-ACT-PDF-with-infographic_2021.pdf) (ACT)✅**: Assesses asthma control.
+    - There is also a version for children between the ages of 4 and 11, known as the Childhood Asthma Control Test (C-ACT).
+- **[Migraine Disability Assessment Test](https://headaches.org/wp-content/uploads/2018/02/MIDAS.pdf) (MIDAS)✅**: Measures the impact of migraines on daily life over a 3 month period.
+- **[The International Physical Activity Questionnaire](https://youthrex.com/wp-content/uploads/2019/10/IPAQ-TM.pdf) (IPAQ)✅**: Measures physical activity levels.
+    - The IPAQ steering committee, which governs the use and distribution of the questionnaire, requests that users register their studies or surveys when they are using the IPAQ.
+    - Short and long forms exist.
 
 ### General Health and Quality of Life Assessments
-- **RAND 36-Item Health Survey (SF-36)**: Assesses overall health and well-being.
-- **Short Form Health Survey (SF-12)**: A shorter version of SF-36.
-- **European Quality of Life Five Dimension Five Level Scale (EQ-5D-5L)**: Measures general health status and outcomes.
-- **PROMIS (Patient-Reported Outcomes Measurement Information System)**: A set of measures that evaluates and monitors physical, mental, and social health.
+
+- **[RAND 36-Item Health Survey (SF-36v2)](https://www.rand.org/health-care/surveys_tools/mos/36-item-short-form/survey-instrument.html)✅**: Assesses overall health and well-being.
+    - Cite source https://www.rand.org/health-care/surveys_tools/mos/36-item-short-form/terms.html
+    - **Short Form Health Survey (SF-12)**: A shorter version of SF-36.
+- **European Quality of Life Five Dimension Five Level Scale (EQ-5D-5L)✅©**: Measures general health status and outcomes.
+    - Free for non-commercial - just register to use. https://registration.euroqol.org/
+    - Children & adolescents can use EQ-5D-Y
+- **[PROMIS (Patient-Reported Outcomes Measurement Information System)](https://www.healthmeasures.net/explore-measurement-systems/promis)✅**: A set of measures that evaluates and monitors physical, mental, and social health.
 
 ### Nutritional Health Assessments
 - **Mini Nutritional Assessment (MNA)**: Screens for malnutrition in older adults.
