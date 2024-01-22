@@ -40,8 +40,8 @@ Code for each of the sections will hopefully come from other projects and contri
 Clinically-validated self-assessment tools commonly used in various domains of health:
 
 ### Mental Health Assessments
-- **Patient Health Questionnaire (PHQ-9)**: Screens for depression.
-- **Generalized Anxiety Disorder Assessment (GAD-7)**: Screens for anxiety.
+- ~~**Patient Health Questionnaire (PHQ-9)**: Screens for depression.~~
+- ~~**Generalized Anxiety Disorder Assessment (GAD-7)**: Screens for anxiety.~~
 - **Beck Depression Inventory (BDI)**: Assesses the severity of depression.
 - **Beck Anxiety Inventory (BAI)**: Measures the severity of anxiety.
 - **Mood Disorder Questionnaire (MDQ)**: Screens for bipolar disorder.
