@@ -82,9 +82,9 @@ Clinically-validated self-assessment tools commonly used in various domains of h
 - **[PROMIS (Patient-Reported Outcomes Measurement Information System)](https://www.healthmeasures.net/explore-measurement-systems/promis)✅**: A set of measures that evaluates and monitors physical, mental, and social health.
 
 ### Nutritional Health Assessments
-- **[Mini Nutritional Assessment (MNA)](https://www.mna-elderly.com/sites/default/files/2021-10/mna-mini-english.pdf)**✅©: Screens for malnutrition in older adults.
+- **[Mini Nutritional Assessment (MNA)](https://www.mna-elderly.com/sites/default/files/2021-10/mna-mini-english.pdf)✅©**: Screens for malnutrition in older adults.
 	- Free for non-commercial use.
-- **[Eating Disorder Examination Questionnaire (EDE-Q)](https://insideoutinstitute.org.au/assets/ede-q-eating-disorder-examination-questionnaire-subscales.pdf)**✅©: Screens for eating disorders.
+- **[Eating Disorder Examination Questionnaire (EDE-Q)](https://insideoutinstitute.org.au/assets/ede-q-eating-disorder-examination-questionnaire-subscales.pdf)✅©**: Screens for eating disorders.
 	- Free for non-commercial use (TBC).
 
 ### Cognitive and Neurological Assessments
@@ -101,17 +101,17 @@ Clinically-validated self-assessment tools commonly used in various domains of h
 	- It takes 10-15 minutes to administer. It is scored out of 30, with a score below 24 suggesting dementia.
 
 ### Women’s Health Assessments
-- **[Uterine Fibroid Symptom and Health-Related Quality of Life Questionnaire (UFS-QOL)](https://www.uclahealth.org/sites/default/files/documents/Fibroid-Questionnaire-2019.pdf)**✅©: Assesses the impact of uterine fibroids on quality of life.
+- **[Uterine Fibroid Symptom and Health-Related Quality of Life Questionnaire (UFS-QOL)](https://www.uclahealth.org/sites/default/files/documents/Fibroid-Questionnaire-2019.pdf)✅©**: Assesses the impact of uterine fibroids on quality of life.
 
 ### Sleep Assessments
-- **[Pittsburgh Sleep Quality Index (PSQI)](https://www.med.upenn.edu/cbti/assets/user-content/documents/Pittsburgh%20Sleep%20Quality%20Index%20(PSQI).pdf)**✅©: Assesses sleep quality and disturbances.
-- **[Epworth Sleepiness Scale](https://nasemso.org/wp-content/uploads/neuro-epworthsleepscale.pdf) (ESS)**✅©: Measures daytime sleepiness.
+- **[Pittsburgh Sleep Quality Index (PSQI)](https://www.med.upenn.edu/cbti/assets/user-content/documents/Pittsburgh%20Sleep%20Quality%20Index%20(PSQI).pdf)✅©**: Assesses sleep quality and disturbances.
+- **[Epworth Sleepiness Scale](https://nasemso.org/wp-content/uploads/neuro-epworthsleepscale.pdf) (ESS)✅©**: Measures daytime sleepiness.
 
 ### Pain Assessments
-- **[Brief Pain Inventory (BPI)](https://static.medicine.iupui.edu/divisions/rheu/content/physicians/BRIEF_PAIN_INVENTORY.pdf)**✅©: Assesses pain and its impact on function.
+- **[Brief Pain Inventory (BPI)](https://static.medicine.iupui.edu/divisions/rheu/content/physicians/BRIEF_PAIN_INVENTORY.pdf)✅©**: Assesses pain and its impact on function.
 	- Comes in short (most widely used) and long form and has specific versions for diabetes and herpes zoster (shingles).
 	- Has quite the [user guide](https://www.mdanderson.org/documents/Departments-and-Divisions/Symptom-Research/BPI_UserGuide.pdf).
-- **[McGill Pain Questionnaire (MPQ)](https://www.occupro.net/docs/default-source/course-materials/functional-capacity-evaluation-material/the-mcgill-pain-questionnaire-english.pdf)**✅©: Describes qualitative and quantitative aspects of pain.
+- **[McGill Pain Questionnaire (MPQ)](https://www.occupro.net/docs/default-source/course-materials/functional-capacity-evaluation-material/the-mcgill-pain-questionnaire-english.pdf)✅©**: Describes qualitative and quantitative aspects of pain.
 	- Further resources/paper needed.
 	- Permission required
 	- Short and long forms
