@@ -1,27 +1,23 @@
-# Extending Open Health Stack
+# About
 
 - Extend [Open Health Stack](https://developers.google.com/open-health-stack) so there are more foundational elements for designing and developing modern but standardized healthcare applications.
 - The designs will draw on work already out there, including [Stanford Spezi](https://github.com/StanfordSpezi), but support both iOS and Android platforms, and also web through the use of Material 3.
 - It is aimed at product managers and product designers who need to build healthcare apps quickly that focus on function over form.
 - Having a highly modular UI library is great but having completed components or whole screens plus a pattern and user journey already created, it will greatly reduce development time.
 
-## Grab it (Beta Release)
+## Resources
 
+- Project is in discovery phase
 - Duplicate from [Figma Community](https://www.figma.com/community/file/1331457393418765850/open-health-stack-extend)
 - Submit any feedback in GitHub issues.
 
-## Initial Release
-
-- [Figma Community Link](https://www.figma.com/community/file/1331457393418765850/open-health-stack-extend)
-- Scroll & Paginated - Mental Health (PHQ-9, GAD-7), Results
-
 ## In Progress
 
+- 🔵 PARQ / PAR-Q+
 - Authentication, Authorization
 - Disclaimer, Privacy, Consent
 - Offline sync
-- Health Profile
-	- Additions: Family history, diet, activity, medication, surgery, allergies, blood type, fitzpatric skin type, mental health.
+- Health Profile (Family history, diet, activity, medication, surgery, allergies, blood type, fitzpatric skin type, mental health)
 - (base) Home, Settings, App Navigation, Results
 
 ## Features
