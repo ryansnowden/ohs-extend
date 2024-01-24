@@ -112,6 +112,20 @@ Clinically-validated self-assessment tools commonly used in various domains of h
 	- Permission required
 	- Short and long forms
 
+# UX Testing
+
+Immediate Considerations:
+
+- **User Demographics**: Understand the age, tech-savviness, and preferences of your target user base. Older users might prefer paginated forms, while younger users might favor long scrolls.
+- **Content Length**: Determine the average length of your questionnaires. Extremely long forms might be better suited to pagination.
+- Content mood: Slow it down, make it transparent and serious depending on the context.
+- **Device** Usage: Consider where users are most likely to complete these forms. If mobile use is high, long scrolling might be advantageous.
+
+Partial consideration:
+  
+- Accessibility: Ensure that the design meets accessibility standards for users with disabilities, which might influence the choice between long scroll and pagination.
+- Performance Metrics: Track metrics such as completion rates, time to complete, and user-reported satisfaction to assess the effectiveness of each method.
+
 
 
 
