@@ -11,15 +11,6 @@
 - Duplicate from [Figma Community](https://www.figma.com/community/file/1331457393418765850/open-health-stack-extend)
 - Submit any feedback in GitHub issues.
 
-## In Progress
-
-- 🔵 PARQ / PAR-Q+
-- Authentication, Authorization
-- Disclaimer, Privacy, Consent
-- Offline sync
-- Health Profile (Family history, diet, activity, medication, surgery, allergies, blood type, fitzpatric skin type, mental health)
-- (base) Home, Settings, App Navigation, Results
-
 ## Features
 
 Some features will evolve over time as other areas are added. Generally, support will be for iOS and Android first, with web coming later.
@@ -27,18 +18,18 @@ Some features will evolve over time as other areas are added. Generally, support
 Code for each of the sections will hopefully come from other projects and contributors. The default stack should support iOS and Android by default but knowingly an org will have their own, compliant ready infrastructure ready to replace.
 
 - Light and dark modes
-- Web/responsive
+- Web support
+- Tablet support
 - Dashboards
 - Extend accessibility standards
-- General guide
-- Support & Information
+- General help & guide (LLM?)
+- Support & Information modules
 - Knowledgebase, Inline support
 - Health integration (HealthKit, Google Health)
 - LLM Chatbot
 - Sharing Health Data
 - Scheduler, Notifications
 - Insights & Trends
-- Medication
 
 ## Considerations
 
