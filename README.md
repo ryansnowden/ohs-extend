@@ -5,6 +5,14 @@
 - It is aimed at product managers and product designers who need to build healthcare apps quickly that focus on function over form.
 - Having a highly modular UI library is great but having completed components or whole screens plus a pattern and user journey already created, it will greatly reduce development time.
 
+## Outcomes.. on Result screens
+
+- Use of LLMs: The outcome would be to use a MLLM trained on specific medical data to collection the answers from each submitted quiz and provide the risk categorization, risk summaries, what to do next, and information on the results.
+- Initial version can just use any open source model and be informational.
+- A lot of the information just needs to be general knowledge.
+- Calculations on scores can be done by the dev and passed onto the LLM if necessary (likely).
+- Graph generation and other prompt design outputs (single/multi-shot) are generally where it can be, with chain of thought passed upstream to clinical providers.
+
 ## Resources
 
 - Project is in discovery phase
