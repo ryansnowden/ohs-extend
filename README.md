@@ -1,9 +1,13 @@
-# About
+## About
 
 - Extend [Open Health Stack](https://developers.google.com/open-health-stack) so there are more foundational elements for designing and developing modern but standardized healthcare applications.
 - The designs will draw on work already out there, including [Stanford Spezi](https://github.com/StanfordSpezi), but support both iOS and Android platforms, and also web through the use of Material 3.
 - It is aimed at product managers and product designers who need to build healthcare apps quickly that focus on function over form.
 - Having a highly modular UI library is great but having completed components or whole screens plus a pattern and user journey already created, it will greatly reduce development time.
+
+## Product Docs & Research
+  - This will live in [Notion]([url](https://ryansnowden.notion.site/OHS-eXtend-acf9b8ba426a4d5b8d5a076240ed5dab?pvs=4)) for now.
+  - There is a lot of research and deduction on what to include next.
 
 ## Outcomes.. on Result screens
 
