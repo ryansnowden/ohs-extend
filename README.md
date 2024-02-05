@@ -6,7 +6,7 @@
 - Having a highly modular UI library is great but having completed components or whole screens plus a pattern and user journey already created, it will greatly reduce development time.
 
 ## Product Docs & Research
-  - This will live in [Notion]([url](https://ryansnowden.notion.site/OHS-eXtend-acf9b8ba426a4d5b8d5a076240ed5dab?pvs=4)) for now.
+  - This will live in [Notion](https://ryansnowden.notion.site/OHS-eXtend-acf9b8ba426a4d5b8d5a076240ed5dab?pvs=4) for now.
   - There is a lot of research and deduction on what to include next.
 
 ## Outcomes.. on Result screens
